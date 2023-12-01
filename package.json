@@ -11,7 +11,15 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.3"
+    "next": "14.0.3",
+    "react-scripts": "3.4.3",
+    "react-webcam": "^5.2.0",
+    "@tensorflow-models/handpose": "0.0.6",
+    "@tensorflow/tfjs": "^2.4.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "fingerpose": "0.0.2"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
